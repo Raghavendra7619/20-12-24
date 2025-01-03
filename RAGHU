@@ -1,1 +1,4 @@
-
+val='ABcTuu0'
+for x in val:
+    ord_val=ord(x)
+    print(chr(c
